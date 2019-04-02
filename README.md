@@ -1,1 +1,1 @@
-# Detection of the sense of "salty"
+# Detection of the sense of "Salty"
